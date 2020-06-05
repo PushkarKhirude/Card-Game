@@ -1,6 +1,6 @@
 # Card-Game
 Card-Game is developed during '30DaysOfKotlin' Google Devs India Event.\
-This program was made using IntelliJ IDEA. This was my first project in Kotlin programming language and it was a great experience. \
+This program was made using IntelliJ IDEA. This was my first project in Kotlin programming language and it was a great experience.
 
 Kotlin Concepts Used In Program:\
 1.classes and objects\
