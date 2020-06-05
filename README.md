@@ -1,0 +1,2 @@
+# Card-Game
+This project was build to show google, what i learned from the course called 30DaysOfKotlin. It is a simple card game in which player selects one card from five random cards  and it is compared with a card which is selected by computer randomly, and if player's card's quality is higher than computer's card's, then player wins. There are five rounds in this game and whoever wins most rounds wins the game.
